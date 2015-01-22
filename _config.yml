@@ -1,0 +1,9 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://skyliuyang.cn
+author: lybeta
+pygments: true
+safe: false
+paginate: 5
+auto: true
+
